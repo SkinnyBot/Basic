@@ -6,7 +6,7 @@ use Skinny\Configure\Configure;
 use Skinny\Module\ModuleInterface;
 use Skinny\Network\Wrapper;
 
-class Basic implements ModuleInterface
+class Test implements ModuleInterface
 {
 
     /**
