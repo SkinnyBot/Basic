@@ -4,7 +4,7 @@ namespace Basic\Module\Modules;
 use Skinny\Module\ModuleInterface;
 use Skinny\Network\Wrapper;
 
-class Test implements ModuleInterface
+class Basic implements ModuleInterface
 {
 
     /**
