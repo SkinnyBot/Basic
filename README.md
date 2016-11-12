@@ -1,4 +1,4 @@
-# Basic
+# Basic Plugin
 
 |StyleCI|Stable Version|Downloads|License|
 |:------:|:------:|:------:|:------:|
