@@ -2,7 +2,7 @@
     "name": "skinnybot/basic",
     "description": "A simple plugin for Skinny.",
     "homepage": "https://github.com/SkinnyBot/Basic",
-    "keywords": ["discord", "bot", "php", "discordphp", "botphp", "skinny", "plugin"],
+    "keywords": ["discord", "bot", "php", "discordphp", "botphp", "skinny", "plugin", "basic"],
     "type": "skinny-plugin",
     "license": "MIT",
     "support": {
