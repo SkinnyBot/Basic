@@ -2,6 +2,7 @@
 return [
     'Commands' => [
         'say' => [
+            'admin' => true,
             'params' => 1,
             'syntax' => 'Say [Message]'
         ],

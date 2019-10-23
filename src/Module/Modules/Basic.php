@@ -45,7 +45,8 @@ class Basic implements ModuleInterface
         //Handle the command.
         switch ($message['command']) {
             case 'say':
-                $wrapper->Channel->sendMessage($message['parts'][1]);
+                $wrapper->Message->delete();
+                $wrapper->Channel->send($message['parts'][1]);
 
                 break;
 
